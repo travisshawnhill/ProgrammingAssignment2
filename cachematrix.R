@@ -1,5 +1,9 @@
 ## Programming Assignment #2: Caching the Inverse
-## of a matrix.
+## of a matrix. Assignment is to create two functions:
+## one creates a matrix and determine the inverse of that
+## matrix, the next determines whether the inverse result
+## has been cached, and if not, determines the inverse and
+## caches the result.
 
 ## Function makeCacheMatrix creates a matrix object, then
 ## defines setsolve function to find inverse of matrix and
